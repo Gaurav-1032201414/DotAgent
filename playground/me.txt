@@ -1,6 +1,0 @@
-
-{{#user}}
-Name: Gaurav S. Untawale
-Skills: Python, Tensorflow, Machine Learning, Natural Language Processing, C++, C.
-Email: untawalegaurav20@gmail.com
-{{/user}}
